@@ -2,9 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Course materials
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I'm excited about the course Human Language for Artificial Intelligence, which I teach with Lori Levin. To watch videos of the lectures for this course, please see [our YouTube channel](https://www.youtube.com/channel/UCmtEzYUMPdneNCnioiMSO-Q).

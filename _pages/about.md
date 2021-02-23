@@ -18,8 +18,8 @@ news: true
 social: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a computational linguist interested in phonology, morphology, language change, linguistic typology, and human-in-the-loop computation. I am currently a Systems Scientist (a non-tenure track research faculty member at the Assistant Professor level) in the [Language Technologies Institute]{https://lti.cs.cmu.edu/}, which is part of [Carnegie Mellon University's]{https://www.cmu.edu} [School of Computer Science]{https://www.cs.cmu.edu/}. Before coming to CMU, I was an Assistant Professor in the Department of Linguistics at the University of Pittsburgh.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I did my graduate work at the University of California, Berkeley, where I recieved a PhD in Linguistics for a thesis on theoretical phonology. At the same time, I was working on various computational projects relating to language documentation and comparative reconstruction. My current position allows me to bring my various interests together. My current research has two strands: uncovering how linguistic knowledge (especially of phonology and morphology) can contribute to natural language processing and using computational models to uncover linguistic knowledge and investigate linguistic hypotheses.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Along with [Lori Levin](http://www.cs.cmu.edu/~lsl/), I run [LLab](https://llab-cmu.github.io/), the LTI linguistics lab.

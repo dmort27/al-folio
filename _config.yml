@@ -2,6 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: David R. Mortensen
+title: David R. Mortensen
 email: dmortens@cs.cmu.edu
 description: > # this means to ignore newlines until "url:"
   A computational linguist.
@@ -9,8 +10,8 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  # the base hostname & protocol for your site
-baseurl: / # the subpath of your site, e.g. /blog/
+url: https://cs.cmu.edu # the base hostname & protocol for your site
+baseurl: /~dmortens/ # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
@@ -101,9 +102,10 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Mortensen
+  first_name: David
 
-  style: association-for-computational-linguistics
+  style: modern-language-association-8th-edition
   locale: en
 
   sort_by: year

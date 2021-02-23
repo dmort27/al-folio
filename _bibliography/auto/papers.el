@@ -1,0 +1,39 @@
+(TeX-add-style-hook
+ "papers"
+ (lambda ()
+   (LaTeX-add-bibitems
+    "li2021multilingual"
+    "chaudhary2020automatic"
+    "sun2021ranking"
+    "chaudhary2019cmu"
+    "marr2020computerized"
+    "ryskina2020where"
+    "littell2018ariel"
+    "mortensen2013tonally"
+    "mortensen2012emergence"
+    "mortensen2013reconstruction"
+    "vercellotti2012classification"
+    "mortensen2011sorbung"
+    "marr2020large"
+    "mortensen2020allovera"
+    "li2020universal"
+    "li2020toward"
+    "chaudhary2018adapting"
+    "mortensen2018epitran"
+    "littell2018parser"
+    "littell2017uriel"
+    "littell2016bridge"
+    "tsvetkov2016polyglot"
+    "bharadwaj2016phonologically"
+    "littell2016named"
+    "mortensen2016panphon"
+    "mortensen2019hmong"
+    "mortensen2017hmong"
+    "mortensen2013lexical"
+    "mortensen2004emergence"
+    "mortensen2003baheng"
+    "mortensen20002langue")
+   (LaTeX-add-environments
+    '("gathered" LaTeX-env-args ["argument"] 0)))
+ :bibtex)
+
