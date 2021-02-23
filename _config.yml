@@ -105,7 +105,7 @@ scholar:
   last_name: Mortensen
   first_name: David
 
-  style: modern-language-association-8th-edition
+  style: apa
   locale: en
 
   sort_by: year
