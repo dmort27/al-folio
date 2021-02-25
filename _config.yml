@@ -105,7 +105,7 @@ scholar:
   last_name: Mortensen
   first_name: David
 
-  style: apa
+  style: association-for-computational-linguistics
   locale: en
 
   sort_by: year
@@ -113,7 +113,7 @@ scholar:
 
   source: /_bibliography/
   bibliography: papers.bib
-  bibliography_template: bib
+  # bibliography_template: bib
 
   replace_strings: true
   join_strings: true
