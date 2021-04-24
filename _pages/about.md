@@ -25,3 +25,5 @@ I did my graduate work at the University of California, Berkeley, where I reciev
 Along with [Lori Levin](http://www.cs.cmu.edu/~lsl/), I lead [LLab](https://llab-cmu.github.io/), the LTI linguistics lab.
 
 <a href='https://llab-cmu.github.io'><img style='max-width: 75%; height: auto' src='./assets/img/llab-logo.png' alt='LLab logo'></a>
+
+<a href='https://lti.cs.cmu.edu'><img style='max-width: 75%; height: auto' src='./assets/img/lti-logo.png' alt='LTI logo'></a>
