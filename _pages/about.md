@@ -8,11 +8,11 @@ profile:
   align: right
   image: drm.png
   address: >
-    <p>5407 Gates Hillman Complex</p>
-    <p>Language Technologies Institute</p>
-    <p>Carnegie Mellon University</p>
-    <p>5000 Forbes Ave</p>
-    <p>Pittsburgh, PA 15213</p>
+    <p class='addrline'>5407 Gates Hillman Complex</p>
+    <p class='addrline'>Language Technologies Institute</p>
+    <p class='addrline'>Carnegie Mellon University</p>
+    <p class='addrline'>5000 Forbes Ave</p>
+    <p class='addrline'>Pittsburgh, PA 15213</p>
 
 news: true
 social: false
