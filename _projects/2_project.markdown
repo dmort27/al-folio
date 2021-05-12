@@ -19,3 +19,4 @@ A speech dataset from Tusom (called [Tusom2021](https://www.github.com/dmort27/t
       primaryClass={cs.CL}
 }
 ```
+The [manuscript]({{site.baseurl}}/assets/pdf/mortensen2021east.pdf) of our sketch of the phonetics and phonology of Tusom was just accepted by Linguistics of the Tibeto-Burman area. It should appear in October.
