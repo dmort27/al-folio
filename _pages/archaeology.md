@@ -21,6 +21,8 @@ I have been fortunate to do field work on a number of different languages, mostl
 
 Among the members of the Tangkhul ethnicity (concentrated in Ukhrul District, northeast Manipur State, India) are speakers of non-Tangkhulic Tibeto-Burman languages. One of these is spoken in the area around Sorbung village and is called “Sorbung.” With a student, I produced a phonetic and phonological [sketch of Sorbung]({{site.baseurl}}/assets/pdf/mortensen2011sorbung.pdf) [[bib]({{site.baseurl}}/assets/bib/mortensen2011sorbung.bib)] with my student Jennifer Keogh. Hopefully, more work will be done on these langauges soon.
 
+My longest linguistic association, however, has been with Hmong. I have produced numerous manuscripts on Hmong, over the years, and have compiled a digital corpus from postings to the `soc.culture.hmong` (SCH) Usenet group called the [SCH Corpus]({{site.baseurl}}/assets/zip/sch_corpus-2.0.zip) [[bib]({{site.baseurl}}/assets/bib/mortensen2017sch.bib)].
+
 ### Historical linguistics
 
 Being able to reconstruct the linguistic past provides an important window into other aspects of human history, but to me *historical linguistics* means more than just reconstructing forms and meanings at the maximum possible time depth. It means producing data that can be used to understand how language changes. That, it turn, provides our most powerful tool for understand how language works synchronically.
