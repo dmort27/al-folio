@@ -2,6 +2,12 @@
  "papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "pratapa2021evaluating"
+    "francis2021quantifying"
+    "siminyu2021phoneme"
+    "mortensen2021tusom2021"
+    "yan2021differentiable"
+    "mortensen2021east"
     "li2021multilingual"
     "chaudhary2020automatic"
     "sun2021ranking"
@@ -32,8 +38,6 @@
     "mortensen2013lexical"
     "mortensen2004emergence"
     "mortensen2003baheng"
-    "mortensen20002langue")
-   (LaTeX-add-environments
-    '("gathered" LaTeX-env-args ["argument"] 0)))
+    "mortensen20002langue"))
  :bibtex)
 
