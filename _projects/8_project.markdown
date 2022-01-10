@@ -18,7 +18,7 @@ We have published two papers on the evolution of the lexicon. First, on the emer
   volume =	 {3}
 }
 ```
-Recently, we have published another paper looking at an opposite phenomenon, lexical decline, in TACL: [_Quantifying Cognitive Factors in Lexical Decline_](https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00441/1979747/tacl\_a\_00441.pdf). BibTeX for this paper is as follows:
+Recently, we have published another paper looking at an opposite phenomenon, lexical decline, in TACL: [“Quantifying Cognitive Factors in Lexical Decline”](https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00441/1979747/tacl_a_00441.pdf). BibTeX for this paper is as follows:
 ```
 @article{francis2021quantifying,
     author = {Francis, David and Rabinovich, Ella and Samir, Farhan and Mortensen, David and Stevenson, Suzanne},
