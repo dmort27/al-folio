@@ -11,7 +11,7 @@ A speech dataset from Tusom (called [Tusom2021](https://www.github.com/dmort27/t
 ```
 @inproceedings{mortensen2021tusom2021,
   author={David R. Mortensen and Jordan Picone and Xinjian Li and Kathleen Siminyu},
-  title={{Tusom2021: A Phonetically Transcribed Speech Dataset from an Endangered Language for Universal Phone Recognition Experiments}},
+  title={Tusom2021: A Phonetically Transcribed Speech Dataset from an Endangered Language for Universal Phone Recognition Experiments},
   year=2021,
   booktitle={Proc. Interspeech 2021},
   pages={3660--3664},
