@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Phonology-Syntax Interface
+title: Coordination
 description: Phonological Form and the Ordering of Coordinate Constructions
-img: /assets/img/cybidium.jpg
+img: /assets/img/cymbidium.jpg
 ---
 
 Since my dissertation, I have been wrestling with the issue of how phonology interacts with the order of coordinated constituents. My lab has undertaken new research in this area, shedding light and applying more rigorous standards to this set of questions.
