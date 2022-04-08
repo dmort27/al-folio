@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coordination
-description: Phonological Form and the Ordering of Coordinate Constructions
+description: Phonological Ordering Effects
 img: /assets/img/cymbidium.jpg
 ---
 
