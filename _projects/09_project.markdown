@@ -11,4 +11,4 @@ Two papers in this vein have recently been accepted. “A Hmong Corpus with Elab
 
 This project is joint work with Chen Cui, Katherine Zhang, and Xinyu Zhang.
 
-For more context, see <a href="/assets/pdf/mortensen-cognitive-biases-eth-2022-07-19.pdf">my presentation</a> from a talk at ETH Zürich.
+For more context, see <a href="{{site.url}}/assets/pdf/mortensen-cognitive-biases-eth-2022-07-19.pdf">my presentation</a> from a talk at ETH Zürich.
