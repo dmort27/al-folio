@@ -35,4 +35,4 @@ Recently, coauthors and I have published another paper looking at an opposite ph
 }
 ```
 
-For more context, see <a href="{{site.url}}/assets/pdf/mortensen-cognitive-biases-eth-2022-07-19.pdf">my slides</a> from a presentation I gave at ETH Zürich.
+For more context, see <a href="{{site.url}}{{site.baseurl}}/assets/pdf/mortensen-cognitive-biases-eth-2022-07-19.pdf">my slides</a> from a presentation I gave at ETH Zürich.
