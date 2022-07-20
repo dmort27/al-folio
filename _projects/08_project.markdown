@@ -34,3 +34,5 @@ Recently, coauthors and I have published another paper looking at an opposite ph
     eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00441/1979747/tacl\_a\_00441.pdf},
 }
 ```
+
+For more context, see <a href="/assets/pdf/mortensen-cognitive-biases-eth-2022-07-19.pdf">my slides</a> from a presentation I gave at ETH Zürich.
