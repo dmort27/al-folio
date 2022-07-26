@@ -2,6 +2,11 @@
  "papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "marr2022large"
+    "mortensen2022hmong"
+    "li2022phone"
+    "li2022zero"
+    "cui2022learning"
     "pratapa2021evaluating"
     "francis2021quantifying"
     "siminyu2021phoneme"

@@ -1,6 +1,63 @@
 ---
 ---
 
+@Article{marr2022large,
+  author = 	 {Marr, Clayton and Mortensen, David},
+  title = 	 {Large-Scale Computerized Forward Reconstruction Yields New Perspectives in French Diachronic Phonology},
+  journal = 	 {Diachronica},
+  year = 	 {in press},
+}
+
+@InProceedings{mortensen2022hmong,
+  author = 	 {David R. Mortensen and Xinyu Zhang and Chenxuan Cui and Katherine J. Zhang},
+  title = 	 {A Hmong Corpus with Elaborate Expression Annotations},
+  booktitle =	 {Proceedings of the Thirteenth International Conference
+                  on Language Resources and Evaluation ({LREC} 2020)},
+  year =	 {2022}
+}
+
+@InProceedings{li2022phone,
+  author = 	 {Xinjian Li and Florian Metze and David R. Mortensen and Alan W. Black and Shinji Watanabe},
+  title = 	 {Phone Inventories and Recognition for Every Language},
+  booktitle =	 {Proceedings of the Thirteenth International Conference
+                  on Language Resources and Evaluation ({LREC} 2020)},
+  year =	 {2022}
+}
+
+@inproceedings{li2022zero,
+    title = "Zero-shot Learning for Grapheme to Phoneme Conversion with Language Ensemble",
+    author = "Li, Xinjian  and
+      Metze, Florian  and
+      Mortensen, David  and
+      Watanabe, Shinji  and
+      Black, Alan",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-acl.166",
+    doi = "10.18653/v1/2022.findings-acl.166",
+    pages = "2106--2115",
+    abstract = "Grapheme-to-Phoneme (G2P) has many applications in NLP and speech fields. Most existing work focuses heavily on languages with abundant training datasets, which limits the scope of target languages to less than 100 languages. This work attempts to apply zero-shot learning to approximate G2P models for all low-resource and endangered languages in Glottolog (about 8k languages). For any unseen target language, we first build the phylogenetic tree (i.e. language family tree) to identify top-$k$ nearest languages for which we have training sets. Then we run models of those languages to obtain a hypothesis set, which we combine into a confusion network to propose a most likely hypothesis as an approximation to the target language. We test our approach on over 600 unseen languages and demonstrate it significantly outperforms baselines.",
+}
+
+@inproceedings{cui2022learning,
+    title = "Learning the Ordering of Coordinate Compounds and Elaborate Expressions in {H}mong, {L}ahu, and {C}hinese",
+    author = "Cui, Chenxuan  and
+      Zhang, Katherine  and
+      Mortensen, David",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.268",
+    pages = "3656--3669",
+    abstract = "Coordinate compounds (CCs) and elaborate expressions (EEs) are coordinate constructions common in languages of East and Southeast Asia. Mortensen (2006) claims that (1) the linear ordering of EEs and CCs in Hmong, Lahu, and Chinese can be predicted via phonological hierarchies and (2) that these phonological hierarchies lack a clear phonetic rationale. These claims are significant because morphosyntax has often been seen as in a feed-forward relationship with phonology, and phonological generalizations have often been assumed to be phonetically {``}natural{''}. We investigate whether the ordering of CCs and EEs can be learned empirically and whether computational models (classifiers and sequence-labeling models) learn unnatural hierarchies similar to those posited by Mortensen (2006). We find that decision trees and SVMs learn to predict the order of CCs/EEs on the basis of phonology, beating strong baselines for all three languages, with DTs learning hierarchies strikingly similar to those proposed by Mortensen. However, we also find that a neural sequence labeling model is able to learn the ordering of elaborate expressions in Hmong very effectively without using any phonological information. We argue that EE ordering can be learned through two independent routes: phonology and lexical distribution, presenting a more nuanced picture than previous work.",
+}
+
+
 @inproceedings{pratapa2021evaluating,
     title = "Evaluating the Morphosyntactic Well-formedness of Generated Texts",
     author = "Pratapa, Adithya  and
