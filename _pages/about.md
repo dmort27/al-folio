@@ -6,7 +6,7 @@ description: <a href="https://lti.cs.cmu.edu/">Language Technologies Institute, 
 
 profile:
   align: right
-  image: drm.png
+  image: drm-web.png
   address: >
     <p class='addrline'>5407 Gates Hillman Complex</p>
     <p class='addrline'>Language Technologies Institute</p>
