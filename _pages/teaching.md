@@ -31,9 +31,6 @@ Ironically, since recieving my PhD, I have never taught Historical Linguistics, 
 
 ### Future teaching
 
-I am designing two special topics courses:
+In Spring 2023, I will teach a new course, _Subword Modeling_, which will focus on modeling morphology, orthography, phonology, and (to a small degree) phonetics computationally. The course will be based around four miniprojects (two on morphology, one on orthography, and one of phonology), one of which will be developed into a term project. The course is still in development, but I'm making the [proposed syllabus]({site.baseurl}}/assets/pdf/subword-syllabus-proposal.pdf) available to students and colleagues. If you have any questions or comments, please reach out.
 
-* *Phonetics and Phonology for Language Technologies.* An introduction to phonetics and phonology and their applications to problems in speech technologies and NLP.
-* *Historical Linguistics and Language Change: Computational Approaches.* A project-oriented course on the application of computational methods to the study of language change and reconstructing the history of languages.
-
-If they are approved, I will offer these irregularly, starting in Fall 2022. I am collecting readings right now. If you have any suggestions, please pass them along!
+In Spring 2024, I hope to teach a new course called _Computational Perspectives on Language Variation and Change_ wherein students will learn to use computational models to understand how language varies in (social and physical) space and time. The proposal for this course is currently under development.
