@@ -1,3 +1,93 @@
+@inproceedings{weissweiler2023construction,
+    title = "Construction Grammar Provides Unique Insight into Neural Language Models",
+    author = {Weissweiler, Leonie  and
+      He, Taiqi  and
+      Otani, Naoki  and
+      R. Mortensen, David  and
+      Levin, Lori  and
+      Sch{\"u}tze, Hinrich},
+    editor = "Bonial, Claire  and
+      Tayyar Madabushi, Harish",
+    booktitle = "Proceedings of the First International Workshop on Construction Grammars and NLP (CxGs+NLP, GURT/SyntaxFest 2023)",
+    month = mar,
+    year = "2023",
+    address = "Washington, D.C.",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.cxgsnlp-1.10",
+    pages = "85--95",
+    abstract = "Construction Grammar (CxG) has recently been used as the basis for probing studies that have investigated the performance of large pretrained language models (PLMs) with respect to the structure and meaning of constructions. In this position paper, we make suggestions for the continuation and augmentation of this line of research. We look at probing methodology that was not designed with CxG in mind, as well as probing methodology that was designed for specific constructions. We analyse selected previous work in detail, and provide our view of the most important challenges and research questions that this promising new field faces.",
+}
+
+@inproceedings{he2023sigmorefun,
+    title = "{S}ig{M}ore{F}un Submission to the {SIGMORPHON} Shared Task on Interlinear Glossing",
+    author = "He, Taiqi  and
+      Tjuatja, Lindia  and
+      Robinson, Nathaniel  and
+      Watanabe, Shinji  and
+      Mortensen, David R.  and
+      Neubig, Graham  and
+      Levin, Lori",
+    editor = {Nicolai, Garrett  and
+      Chodroff, Eleanor  and
+      Mailhot, Frederic  and
+      {\c{C}}{\"o}ltekin, {\c{C}}a{\u{g}}r{\i}},
+    booktitle = "Proceedings of the 20th SIGMORPHON workshop on Computational Research in Phonetics, Phonology, and Morphology",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.sigmorphon-1.22",
+    doi = "10.18653/v1/2023.sigmorphon-1.22",
+    pages = "209--216",
+    abstract = "In our submission to the SIGMORPHON 2023 Shared Task on interlinear glossing (IGT), we explore approaches to data augmentation and modeling across seven low-resource languages. For data augmentation, we explore two approaches: creating artificial data from the provided training data and utilizing existing IGT resources in other languages. On the modeling side, we test an enhanced version of the provided token classification baseline as well as a pretrained multilingual seq2seq model. Additionally, we apply post-correction using a dictionary for Gitksan, the language with the smallest amount of data. We find that our token classification models are the best performing, with the highest word-level accuracy for Arapaho and highest morpheme-level accuracy for Gitksan out of all submissions. We also show that data augmentation is an effective strategy, though applying artificial data pretraining has very different effects across both models tested.",
+}
+
+@inproceedings{kim2023transformed,
+    title = "Transformed Protoform Reconstruction",
+    author = "Kim, Young Min  and
+      Chang, Kalvin  and
+      Cui, Chenxuan  and
+      Mortensen, David R.",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-short.3",
+    doi = "10.18653/v1/2023.acl-short.3",
+    pages = "24--38",
+    abstract = "Protoform reconstruction is the task of inferring what morphemes or words appeared like in the ancestral languages of a set of daughter languages. Meloni et al (2021) achieved the state-of-the-art on Latin protoform reconstruction with an RNN-based encoder-decoder with attention model. We update their model with the state-of-the-art seq2seq model: the Transformer. Our model outperforms their model on a suite of different metrics on two different datasets: their Romance data of 8,000 cognates spanning 5 languages and a Chinese dataset (Hou 2004) of 800+ cognates spanning 39 varieties. We also probe our model for potential phylogenetic signal contained in the model. Our code is publicly available at \url{https://github.com/cmu-llab/acl-2023}.",
+}
+
+@inproceedings{mortensen2023generalized,
+    title = "Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation",
+    author = "Mortensen, David R.  and
+      Gulsen, Ela  and
+      He, Taiqi  and
+      Robinson, Nathaniel  and
+      Amith, Jonathan  and
+      Tjuatja, Lindia  and
+      Levin, Lori",
+    booktitle = "Proceedings of the 20th SIGMORPHON workshop on Computational Research in Phonetics, Phonology, and Morphology",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.sigmorphon-1.7",
+    doi = "10.18653/v1/2023.sigmorphon-1.7",
+    pages = "58--67",
+    abstract = "Interlinear glossing provides a vital type of morphosyntactic annotation, both for linguists and language revitalists, and numerous conventions exist for representing it formally and computationally. Some of these formats are human readable; others are machine readable. Some are easy to edit with general-purpose tools. Few represent non-concatentative processes like infixation, reduplication, mutation, truncation, and tonal overwriting in a consistent and formally rigorous way (on par with affixation). We propose an annotation convention{\^a}€{''}Generalized Glossing Guidelines (GGG) that combines all of these positive properties using an Item-and-Process (IP) framework. We describe the format, demonstrate its linguistic adequacy, and compare it with two other interlinear glossed text annotation schemes.",
+}
+
+@inproceedings{karakasidis2023multilingual,
+  title={Multilingual TTS Accent Impressions for Accented ASR},
+  author={Karakasidis, Georgios and Robinson, Nathaniel and Getman, Yaroslav and Ogayo, Atieno and Al-Ghezi, Ragheb and Ayasi, Ananya and Watanabe, Shinji and Mortensen, David R and Kurimo, Mikko},
+  booktitle={International Conference on Text, Speech, and Dialogue},
+  pages={317--327},
+  year={2023},
+  organization={Springer}
+}
+
 @inproceedings{robinson2022data,
     title = "Data-adaptive Transfer Learning for Translation: A Case Study in {H}aitian and Jamaican",
     author = "Robinson, Nathaniel  and
