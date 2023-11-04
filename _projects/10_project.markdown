@@ -11,4 +11,4 @@ We are modeling comparative reconstruction using neural models that overcome the
 
 We are working with datasets from Sinitic (Chinese), Polynesian, Romance, and Tankghulic.
 
-This project is work in progress with Chen Cui, Kalvin Chang, and Young Min Kim.
+This project is work in progress with Anna Cai, Leon Lu, Helen Jason Rauchwerk, Kexun Zhang, Naveen Suresh, and Aravind Mysore. Alumni include Young Min Kim, Chen Cui, Kalvin Chang, and Nate Robinson.
