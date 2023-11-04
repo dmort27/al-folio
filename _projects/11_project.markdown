@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Emergent Communication
-description: Computational Historical Phonology
+description: Language from Epsilon
 img: /assets/img/bacteria.jpg
 ---
 
