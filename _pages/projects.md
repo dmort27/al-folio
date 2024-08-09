@@ -3,6 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Ongoing research projects in our lab.
+nav: false
 ---
 
 {% for project in site.projects %}
