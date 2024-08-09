@@ -27,7 +27,7 @@ I am currently developing <a href="https://dmort27.github.io/subwordmodeling/">a
 
 For more about me, see my [curriculum vitae]({{site.baseurl}}/assets/pdf/cv.pdf).
 
-Along with [Lori Levin](http://www.cs.cmu.edu/~lsl/), I lead [LLab](https://llab-cmu.github.io/), the LTI linguistics lab.
+I lead [ChangeLing Lab](https://changelinglab.github.io), a growing lab dedicated to language change and empirical linguistics.
 
 <a href='https://llab-cmu.github.io'><img style='max-width: 75%; height: auto' src='./assets/img/llab-logo.png' alt='LLab logo'></a>
 
