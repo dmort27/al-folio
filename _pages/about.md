@@ -29,6 +29,4 @@ For more about me, see my [curriculum vitae]({{site.baseurl}}/assets/pdf/cv.pdf)
 
 I lead [ChangeLing Lab](https://changelinglab.github.io), a growing lab dedicated to language change and empirical linguistics.
 
-<a href='https://llab-cmu.github.io'><img style='max-width: 75%; height: auto' src='./assets/img/llab-logo.png' alt='LLab logo'></a>
-
 <a href='https://lti.cs.cmu.edu'><img style='max-width: 75%; height: auto' src='./assets/img/lti-logo.png' alt='LTI logo'></a>
