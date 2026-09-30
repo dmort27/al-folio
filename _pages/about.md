@@ -6,7 +6,7 @@ description: <a href="https://lti.cs.cmu.edu/">Language Technologies Institute, 
 
 profile:
   align: right
-  image: drm-gates.png
+  image: drm-headshot-2026.jpg
   address: >
     <p class='addrline'>5407 Gates Hillman Complex</p>
     <p class='addrline'>Language Technologies Institute</p>
@@ -19,14 +19,16 @@ news: true
 social: false
 ---
 
-I am a computational linguist interested in phonology, morphology, language change, linguistic typology, and human-in-the-loop computation. I am currently an Assistant Research Professor in the [Language Technologies Institute](https://lti.cs.cmu.edu/), which is part of [Carnegie Mellon University's](https://www.cmu.edu) [School of Computer Science](https://www.cs.cmu.edu/). Before coming to CMU, I was an Assistant Professor in the Department of Linguistics at the University of Pittsburgh.
+I am an Associate Research Professor in the [Language Technologies Institute](https://lti.cs.cmu.edu/), which is part of [Carnegie Mellon University's](https://www.cmu.edu) [Kenneth C. Griffin School of Computer Science](https://www.cs.cmu.edu/). Before coming to CMU, I was an Assistant Professor in the Department of Linguistics at the University of Pittsburgh.
 
-I did my graduate work at the University of California, Berkeley, where I recieved a PhD in Linguistics for a thesis on theoretical phonology. At the same time, I was working on various computational projects relating to language documentation and comparative reconstruction. My current position allows me to bring my various interests together. My research has two strands: uncovering how linguistic knowledge (especially of phonology and morphology) can contribute to natural language processing and using computational models to uncover linguistic knowledge and investigate linguistic hypotheses.
+<img src="{{ site.baseurl }}/assets/img/research-framework.svg" alt="Research Framework: Modeling and Reasoning about Language as a Dynamic System" style="max-width: 70    %; height: auto; margin: 1.5rem 0; display: block;">
 
-I am currently developing <a href="https://dmort27.github.io/subwordmodeling/">a course</a> on computational models of language below the level of the word.
+My work revolves around modeling and reasoning about language as a dynamic system, one that varies in time, social and geographic space, and modality. My central dictim is <strong>“language use is language change.”</strong>
+
+I did my graduate work at the University of California, Berkeley, where I recieved a PhD in Linguistics for a thesis on theoretical phonology. At the same time, I was working on various computational projects relating to language documentation and comparative reconstruction. My current position allows me to bring my various interests together.
 
 For more about me, see my [curriculum vitae]({{site.baseurl}}/assets/pdf/cv.pdf).
 
-I lead [ChangeLing Lab](https://changelinglab.github.io), a growing lab dedicated to language change and empirical linguistics.
+I lead [ChangeLing Lab](https://changelinglab.github.io), a growig research group dedicated to language change and empirical linguistics.
 
-<a href='https://lti.cs.cmu.edu'><img style='max-width: 75%; height: auto' src='./assets/img/lti-logo.png' alt='LTI logo'></a>
+<a href='https://lti.cs.cmu.edu'><img style='max-width: 75%; height: auto' src='./assets/img/CMU-LTI-Logo-RGB_Institute-Horizontal-Fullcolor.png' alt='LTI logo'></a>

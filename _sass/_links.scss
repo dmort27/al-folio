@@ -1,3 +1,5 @@
+@use "shared" as *;
+
 a {
     color: $text-color;
     text-decoration: none;

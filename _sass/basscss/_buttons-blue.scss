@@ -1,3 +1,5 @@
+@use "../shared" as *;
+
 .button-blue {
   color: white;
   background-color: $theme-color;

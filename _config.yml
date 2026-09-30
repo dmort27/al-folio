@@ -112,8 +112,8 @@ scholar:
   order: descending
 
   source: /_bibliography/
-  bibliography: papers.bib
-  # bibliography_template: bib
+  bibliography: drmpubs.bib
+  bibliography_template: bib
 
   replace_strings: true
   join_strings: true

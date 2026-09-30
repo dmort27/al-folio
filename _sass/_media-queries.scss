@@ -1,8 +1,5 @@
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
+@use "shared" as *;
+@use "sass:math";
 
 @media screen and (min-width: $viewport-small) {
     html {
@@ -48,10 +45,10 @@
     text-align: right;
   }
   .img_row {
-     height: $img-height/3;
+     height: math.div($img-height, 3);
   }
   .col {
-      padding: $img-spacing/3;
+      padding: math.div($img-spacing, 3);
   }
 }
 
@@ -60,10 +57,10 @@
     font-size: 18px;
   }
   .img_row {
-     height: $img-height/1.5;
+     height: math.div($img-height, 1.5);
   }
   .col {
-      padding: $img-spacing/1.5;
+      padding: math.div($img-spacing, 1.5);
   }
 }
 

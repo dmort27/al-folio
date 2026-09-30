@@ -1,3 +1,5 @@
+@use "shared" as *;
+
 .publications {
     h2 {
         color: $theme-color;
@@ -25,8 +27,29 @@
         margin: 10px 0;
         position: relative;
 
-        span { display: block; }
-        .title { font-weight: bolder; }
+        > span.pub-entry {
+            display: inline;
+            
+            > span {
+                display: inline;
+            }
+        }
+
+        .pub-link {
+            display: inline;
+            margin-left: 0.4em;
+            color: $theme-color;
+            
+            &:hover {
+                color: $link-hover-color;
+            }
+            
+            svg {
+                vertical-align: -2px;
+            }
+        }
+
+        .title { display: block; font-weight: bolder; }
         .author {
             a {
                 border-bottom: 1px dashed $theme-color;

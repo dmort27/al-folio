@@ -1,3 +1,5 @@
+@use "shared" as *;
+
 @charset "UTF-8";
 html{
     margin-left: calc(100vw - 100%);
@@ -32,5 +34,5 @@ body {
     margin-left: auto;
     padding-right: $horizontal-spacing-unit;
     padding-left: $horizontal-spacing-unit;
-    @extend .clearfix;
+    @include clearfix;
 }

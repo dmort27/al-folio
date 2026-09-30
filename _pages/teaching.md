@@ -7,13 +7,13 @@ description: Teaching history and course materials
 
 ### Current teaching
 
-##### Human Language for Artificial Intelligence
+##### Subword Modeling
 
-I'm excited about the course Human Language for Artificial Intelligence, which I teach with Lori Levin. It is an introduction to linguistics and the other language sciences (with the lamentable exception of psycholinguistics) geared towards students in computer science (especially artificial intelligence fields). We believe that this is the only course of its kind. If you are interested in our lecture notes (draft) for this course, please let me know.
+In 2024, I develop a [one-of-a-kind course](https://dmort27.github.io/subwordmodeling/) focused on classical and state-of-the-art approaches to computational phonology, morphology, and orthography. This course bridges the gap between the findings of language sciences in these areas and the complementary perspectives added by neural models (including LLMs).
 
 ##### Natural Language Processing
 
-I co-teach an introductory course in NLP with both undergraduate and graduate sections. We are always developing new teaching materials and new exercises. If you would like us to share, please let me know!
+I have taught or co-taught an introductory course in NLP with both undergraduate and graduate sections for many years. I will be teaching it again in Spring 2027.
 
 ### Past teaching
 
@@ -26,6 +26,7 @@ In my past life, I taught numerous linguistics courses at both a graduate and un
 * Advanced Morphology
 * Languages of the World
 * Grammars and Lexicons
+* Human Language for Artificial Intelligence
 
 Ironically, since recieving my PhD, I have never taught Historical Linguistics, even though much of my research has been in that area.
 
