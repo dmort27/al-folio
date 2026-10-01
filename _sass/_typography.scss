@@ -6,7 +6,7 @@ html {
 
 body {
     color: $text-color;
-    font-weight: 100;
+    font-weight: $font-weight;
 }
 
 abbr {
@@ -17,11 +17,15 @@ abbr {
 p {
     color: #333;
     line-height: 1.5;
+    font-weight: $font-weight;
 }
 
 small,
-.small {
+.small,
+figcaption,
+caption {
     font-size: 0.707rem;
+    font-weight: $font-weight;
 }
 
 sup {
@@ -31,7 +35,7 @@ sup {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 100;
+    font-weight: $heading-font-weight;
 }
 
 div.equation {
