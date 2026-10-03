@@ -35,7 +35,9 @@ Areas to which I have contributed:
 - Agents for reasoning and optimization tasks (especially in historical linguistics)
 - Emergent language (emergent communication)
 
-<img src="{{ site.baseurl }}/assets/img/research-framework.svg" alt="Research Framework: Modeling and Reasoning about Language as a Dynamic System" style="max-width: 70    %; height: auto; margin: 1.5rem 0; display: block;">
+<img src="{{ site.baseurl }}/assets/img/research-framework.svg"
+     alt="Research Framework: Modeling and Reasoning about Language as a Dynamic System"
+     style="width: 100%; height: auto; margin: 1.5em 0; display: block;">
 
 
 I did my graduate work at the University of California, Berkeley, where I recieved a PhD in Linguistics for a thesis on theoretical phonology. At the same time, I was working on various computational projects relating to language documentation and comparative reconstruction. My current position allows me to bring my various interests together.
